@@ -81,12 +81,12 @@
 						</form>
 					@elseif($order->status_id === 3)
 					<label>No Action</label>
-					@elseif($order->status_id === 2)
+				{{-- 	@elseif($order->status_id === 2)
 					<form action="/request/return/{{$order->id}}" method="POST">
 						@csrf
 						@method('put')
 						<button class="btn btn-primary">Return</button>
-					</form>
+					</form> --}}
 					@else
 					<label>No Action</label>
 					@endif
