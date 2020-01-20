@@ -1,0 +1,40 @@
+body{
+	/*background-image: url('../image/back9.jpg'); */
+	/*background-repeat : no-repeat;*/
+	/*background-size: cover; */
+	/*background-position: center;*/
+	/*background: #60694e;*/
+	background: #8ebabe;
+	/*background: blue;*/
+}
+
+/*#total_request{
+	border-left: solid 1px gray;
+	border-right: solid 1px gray;
+}
+
+#total_used{
+		border-right: solid 1px gray;
+}
+*/
+#main{
+	background: rgba(245,245,245, 0.5);
+	/*text-shadow: 3px 2px red;?*/
+	/*background: rgba(255,255,255, 0.5);*/
+	/*background: linear-gradient(to right, white , white);*/
+	/*background-blend-mode: lighten;*/
+}
+a {
+    /*color: #0060B6;*/
+    color: black;
+    text-decoration: none;
+}
+#menu{
+ /* border-style: solid;
+  border-width: 5px;
+  border-color: none;
+*/
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: large;
+}
