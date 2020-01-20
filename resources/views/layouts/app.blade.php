@@ -10,6 +10,7 @@
     {{-- <title>{{ config('app.name', 'Laravel') }}</title> --}}
     <title>ConsTrak</title>
 
+    {{-- Just a comment --}}
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 
