@@ -69,5 +69,21 @@
             </div>
         </div>
     </div>
+            <div class="d-flex justify-content-center mt-4">
+                <table style="width:25%">
+                    <tr>
+                        <th>Username</th>
+                        <th>Password</th>
+                    </tr>
+                    <tr>
+                        <td>admin@gmail.com</td>
+                        <td>qweqweqwe</td>
+                    </tr>
+                    <tr>
+                        <td>user@gmail.com</td>
+                        <td>qweqweqwe</td>
+                    </tr>
+                </table>
+            </div>
 </div>
 @endsection
